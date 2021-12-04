@@ -1,3 +1,3 @@
-# aoc2020
+# aoc
 
 Just winter break [things](https://adventofcode.com/)...
